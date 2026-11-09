@@ -4,6 +4,16 @@ O **SecurePass** é um gerador de senhas desenvolvido em Python, com interface i
 
 O projeto tem como objetivo permitir a criação de senhas aleatórias e personalizadas, oferecendo diferentes opções de caracteres, tamanhos e quantidades, além de uma avaliação simplificada da força das senhas geradas.
 
+
+## Demonstração Online
+
+Experimente o SecurePass gratuitamente, sem precisar instalar nada!
+
+**[Testar o SecurePass](https://securepass-python.streamlit.app/)**
+
+Gere senhas personalizadas diretamente pelo navegador, escolhendo o tamanho, os tipos de caracteres e a quantidade de senhas.
+
+
 ## Funcionalidades
 
 - Geração de senhas utilizando a biblioteca `secrets` do Python.
