@@ -32,9 +32,13 @@ O projeto tem como objetivo permitir a criação de senhas aleatórias e persona
 ```text
 SecurePass/
 ├── screenshots/
-│   ├── 
-│   ├── main.py
-│   └── security.py
+│   ├── screenshots1.png
+│   ├── screenshots2.png
+│   ├── screenshots3.png
+│   ├── screenshots4.png
+│   ├── screenshots5.png
+│   ├── screenshots6.png
+│   └── screenshots7.png
 ├── src/
 │   ├── generator.py
 │   ├── main.py
@@ -64,7 +68,7 @@ Tenha o Python e o pip instalados em seu computador.
 ### 2. Clone o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/23Viegas/securepass-python
 cd SecurePass
 ```
 
